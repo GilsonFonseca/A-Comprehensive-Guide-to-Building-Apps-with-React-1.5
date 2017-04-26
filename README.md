@@ -4,13 +4,14 @@ In this repository you can see how use Babel and Webpack to build apps with Reac
 [here](https://tylermcginnis.com/react-js-tutorial-1-5-utilizing-webpack-and-babel-to-build-a-react-js-app/).
 
 ## How to run
-To make this work first you download or clone than you will need to install some packages
+To make this work first you download or clone the repository, than
+```
+ $ npm install webpack webpack-dev-server -g
+ $ npm init
+```
+After install some packages
 ```
  $ npm install
-```
-After you will open the browser with
-```
- $ npm start
 ```
 ## UPDATE
 
