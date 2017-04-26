@@ -15,4 +15,4 @@ After you will open the browser with
 ## UPDATE
 
 I just published the step [2.0](https://github.com/GilsonFonseca/A-Comprehensive-Guide-to-Building-Apps-with-React-2.0) of this tutorial. You can see more about, in it's respective page.
-And review the preview step here [1.5](https://github.com/GilsonFonseca/A-Comprehensive-Guide-to-Building-Apps-with-React-1.5).
+And review the preview step here [1.0](https://github.com/GilsonFonseca/A-Comprehensive-Guide-to-Building-Apps-with-React-1.0).
